@@ -1,0 +1,6 @@
+{
+  "name": "SA Workforce Solutions",
+  "description": "Premium recruitment, staffing, and workforce management platform for businesses and driver staffing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
